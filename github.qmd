@@ -8,6 +8,8 @@ execute:
   message: false
 bibliography: references.bib
 csl: apa6.csl
+standalone: true
+self-contained: true
 ---
 
 ```{r setup}
