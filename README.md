@@ -12,6 +12,15 @@ target="_blank">http://tiny.cc/AprendizajeEnHogar</a>
 
 Si, por otro lado, te interesa utilizarla para un trabajo propio, puedes
 descargar las preguntas completas en el siguiente link:
+<a href="https://zenodo.org/record/7986289#.ZHYA8HZBzIU"
+target="_blank">https://zenodo.org/record/7986289#.ZHYA8HZBzIU</a>
+
+Para citar el cuestionario validado: *Formoso, J., Ortiz, S., Errico, C.
+(2023). Traducción y adaptación de un cuestionario sobre entornos de
+aprendizaje de las matemáticas en el hogar \[Poster\]. 3er Congreso
+Nacional, 1er Congreso Internacional de Psicología de la Facultad de
+Psicología, Universidad Nacional de San Luis, San Luis, Argentina. Doi:
+10.5281/zenodo.7986364*
 
 ## Introducción
 
