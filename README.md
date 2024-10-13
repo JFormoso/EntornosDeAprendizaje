@@ -1,7 +1,7 @@
 TRADUCCIÓN Y ADAPTACIÓN DE UN CUESTIONARIO SOBRE ENTORNOS DE APRENDIZAJE
 DE LAS MATEMÁTICAS EN EL HOGAR
 ================
-Jesica Formoso, Sofía Ortiz, Carla Errico
+Jesica Formoso, Sofía Ortiz, Florencia Prendivoj, Carla Errico
 
 ## Versión final del cuestionario
 
